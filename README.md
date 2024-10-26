@@ -1,5 +1,7 @@
 # toastmasters_table_topics
 
+This project was build in 10 minutes using Cursor.
+
 ## Project setup
 ```
 yarn install
