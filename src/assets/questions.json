@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "content": "How do you handle situations where you are bored when learning?",
+    "difficulty": "Easy",
+    "read": false
+  },
+  {
+    "id": 2,
+    "content": "How has technology impacted the way you approach lifelong learning?",
+    "difficulty": "Easy",
+    "read": false
+  },
+  {
+    "id": 3,
+    "content": "Share an experience where learning something new significantly changed your perspective.",
+    "difficulty": "Easy",
+    "read": false
+  },
+  {
+    "id": 4,
+    "content": "How do you balance work, family, and personal growth in your pursuit of lifelong learning?",
+    "difficulty": "Easy",
+    "read": false
+  },
+  {
+    "id": 5,
+    "content": "What advice would you give to someone who feels they are too old or busy to continue learning?",
+    "difficulty": "Easy",
+    "read": false
+  },
+  {
+    "id": 6,
+    "content": "What role do you think curiosity plays in lifelong learning?",
+    "difficulty": "Medium",
+    "read": false
+  },
+  {
+    "id": 7,
+    "content": "Can you think a time when a failure or setback became a valuable learning experience?",
+    "difficulty": "Medium",
+    "read": false
+  },
+  {
+    "id": 8,
+    "content": "How has lifelong learning impacted your career or personal life?",
+    "difficulty": "Medium",
+    "read": false
+  },
+  {
+    "id": 9,
+    "content": "How can organizations and communities support and encourage lifelong learning?",
+    "difficulty": "Hard",
+    "read": false
+  },
+  {
+    "id": 10,
+    "content": "What's one skill you wish you had learned earlier in life? Why?",
+    "difficulty": "Hard",
+    "read": false
+  }
+]
+
