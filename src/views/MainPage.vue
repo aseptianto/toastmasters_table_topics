@@ -2,7 +2,9 @@
   <div>
     <h1>Table Topics Questions</h1>
     <h2>Theme: Lifelong Learning</h2>
-    <h3>Word of The Day: </h3>
+    <h3>Word of The Day: Curiosity</h3>
+    <h3>n. A strong desire to learn or know something</h3>
+    <h3>"Her curiosity about the stars led her to pursue a career in astronomy."</h3>
     <question-list :groupedQuestions="groupedQuestions" />
   </div>
 </template>

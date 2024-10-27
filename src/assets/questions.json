@@ -49,13 +49,43 @@
   },
   {
     "id": 9,
+    "content": "What are the risks or downsides of not engaging in lifelong learning in today's fast-paced world?",
+    "difficulty": "Medium",
+    "read": false
+  },
+  {
+    "id": 10,
+    "content": "Describe a mentor or role model who has significantly influenced your approach to lifelong learning. What did you learn from them?",
+    "difficulty": "Medium",
+    "read": false
+  },
+  {
+    "id": 11,
+    "content": "How do you stay motivated to learn new things, especially when faced with challenging or unfamiliar topics?",
+    "difficulty": "Medium",
+    "read": false
+  },
+  {
+    "id": 12,
     "content": "How can organizations and communities support and encourage lifelong learning?",
     "difficulty": "Hard",
     "read": false
   },
   {
-    "id": 10,
+    "id": 13,
     "content": "What's one skill you wish you had learned earlier in life? Why?",
+    "difficulty": "Hard",
+    "read": false
+  },
+  {
+    "id": 14,
+    "content": "How can you integrate lifelong learning into your daily routine without feeling overwhelmed?",
+    "difficulty": "Hard",
+    "read": false
+  },
+  {
+    "id": 15,
+    "content": "In what ways can lifelong learning contribute to a more fulfilling and purposeful life?",
     "difficulty": "Hard",
     "read": false
   }
